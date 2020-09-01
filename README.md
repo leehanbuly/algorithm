@@ -7,4 +7,6 @@
 2020-08-26  https://programmers.co.kr/learn/courses/30/lessons/17680
 	    https://programmers.co.kr/learn/courses/30/lessons/17679
 2020-08-27  https://programmers.co.kr/learn/courses/30/lessons/17678
-	    https://programmers.co.kr/learn/courses/30/lessons/17677            
+	    https://programmers.co.kr/learn/courses/30/lessons/17677      
+2020-09-01  https://programmers.co.kr/learn/courses/30/lessons/42888
+	    https://programmers.co.kr/learn/courses/30/lessons/42889      
